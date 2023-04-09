@@ -3,7 +3,7 @@ In this project let's build a **Insta Share App** by applying the concepts we ha
 You will demonstrate your skills by creating an app that will fetch data from an internal server using a class component, displaying that data, using **component lifecycle methods**, **routing** concepts, **authentication**, and **authorization**, and adding responsiveness to the website.
 
 This is an individual assessment. All work must be your own.
-
+###
 ### Prerequisites
 
 #### UI Prerequisites
